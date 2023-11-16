@@ -1,0 +1,25 @@
+.intro {
+  display: flex;
+  flex-direction: column;
+}
+.text-intro {
+  margin-top: 10px;
+}
+.btn-items {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+#features {
+  display: flex;
+  flex-direction: column;
+}
+.img {
+  max-height: 10%;
+}
+h1 p {
+  color: #fff;
+  font-family: "McLaren", cursive;
+  font-size: 2em;
+  text-align: center;
+}
